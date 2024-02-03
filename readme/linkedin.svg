@@ -1,58 +1,59 @@
-    <svg xmlns="http://www.w3.org/2000/svg" fill="none" style="width: 100%;" height="120">
-        <foreignObject width="100%" height="100%">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <style>
-                @keyframes fadeIn {
-              0% {
-                opacity: 0;
-              }
 
-              100% {
-                opacity: 1;
-              }
-            }
-            
-            #main{
-                margin-top: 25px;
-                display: flex;
-                justify-content: center;
-                gap: 15px;
-            }
-            
-                        .btnBox {
-              display: flex;
-              justify-content: center;
-              border: none;
-              padding: 4px;
-              box-shadow: 0 0 2px;
-              background: linear-gradient(-45deg, #e81cff 0%, #40c9ff 100% );
-              animation: fadeIn 1.2s linear 1.3s forwards;
-            }
-            
-            [class^="btn"]{
-                cursor: pointer;
-                border-radius: 8px;
-                color: white;  
-            }
-    
-            .btn {
-                width: 100%;
-                height: auto;
-                max-height: fit-content;
-                padding: 10px 22px;
-                background-color: #000;
-            }
-        
-                </style>
-                        <div id="main">
-            <div class="btnBox">
-                <button class="btn">
-                    LinkedIn
-                </button>        
-            </div>  
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  style="width: 100%"
+  height="120"
+>
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes fadeIn {
+          0% {
+            opacity: 0;
+          }
+
+          100% {
+            opacity: 1;
+          }
+        }
+
+        #main {
+          margin-top: 25px;
+          display: flex;
+          justify-content: center;
+          gap: 15px;
+        }
+
+        .btnBox {
+          display: flex;
+          justify-content: center;
+          border: none;
+          padding: 4px;
+          box-shadow: 0 0 2px;
+          background: linear-gradient(-45deg, #e81cff 0%, #40c9ff 100%);
+          animation: fadeIn 1.2s linear 1.3s forwards;
+        }
+
+        [class^="btn"] {
+          cursor: pointer;
+          border-radius: 8px;
+          color: white;
+        }
+
+        .btn {
+          width: 100%;
+          height: auto;
+          max-height: fit-content;
+          padding: 10px 22px;
+          background-color: #000;
+        }
+      </style>
+      <div id="main">
+        <div class="btnBox">
+          <button class="btn">LinkedIn</button>
         </div>
-        </div>
-    </foreignObject>
+      </div>
+    </div>
+  </foreignObject>
 </svg>
-
-
