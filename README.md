@@ -10,7 +10,7 @@ Cambios
 
 <div style="width: 800px">
     <svg xmlns="http://www.w3.org/2000/svg" fill="none">
-            <foreignObjet xmlns="http://www.w3.org/2000/svg" fill="none" style="width: 100%;" height="360"> 
+            <foreigngObjet xmlns="http://www.w3.org/2000/svg" fill="none" style="width: 100%;" height="360"> 
                 <div xmlns="http://www.w3.org/1999/xhtml">
                     <style>
                     .menuBox{
@@ -26,6 +26,6 @@ Cambios
                     }
                     </style>
                 </div>
-        </foreignObjet>
+        </foreigngObjet>
     </svg>
 </div>
