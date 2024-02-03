@@ -16,6 +16,10 @@
                 opacity: 1;
               }
             }
+            
+            a{
+            display: block;
+            }
 
             #main {
               margin-top: 25px;
@@ -47,13 +51,15 @@
               padding: 10px 22px;
               background-color: #000;
             }
+            
           </style>
           <div id="main">
             <div class="btnBox">
-              <button class="btn">Linkedin</button>
+              <a href="https://www.linkedin.com/in/marlon-velasquez/" class="btn">Linkedin</a>
             </div>
           </div>
         </div>
       </foreignObject>
     </svg>
 
+ 
