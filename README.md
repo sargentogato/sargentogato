@@ -16,6 +16,7 @@
                         padding:6px 12px;
                         border-radius:15px;
                         border:solid #ffff;
+                        background-color:yellow;
                     }
                     .container{
                         position: relative;
