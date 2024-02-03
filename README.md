@@ -10,27 +10,6 @@
 <div id="outer" style="width: 800px">
     <svg xmlns="http://www.w3.org/2000/svg" fill="none" style="width: 100%;" height="360">
         <foreignObject width="100%" height="100%">
-                     <style>
-                    button{
-                        padding:6px 12px;
-                        border-radius:15px;
-                        border:solid #ffff;
-                        background-color:#FFD300;
-                    }
-                    .container{
-                        position: relative;
-                        width: 100%;
-                        height: 360px;
-                        background-color: #0d1117;
-                        opacity: 1;
-                    }
-                    img{
-                        position: absolute;
-                        right: -25px;
-                        bottom: 0;
-                        width: clamp(400px, 100%, 830px);
-                    }
-                </style> 
         </foreignObject>
     </svg>
 </div>
