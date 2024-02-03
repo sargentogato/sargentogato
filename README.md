@@ -1,5 +1,5 @@
 <div class="menuBox">
-Cambios
+    Cambios
     <button>
         <a href="https://www.linkedin.com/in/marlon-velasquez/">Linkedin</a>
     </button>
@@ -10,22 +10,22 @@ Cambios
 
 <div style="width: 800px">
     <svg xmlns="http://www.w3.org/2000/svg" fill="none">
-            <foreignObject xmlns="http://www.w3.org/2000/svg" fill="none" style="width: 100%;" height="360"> 
-                <div xmlns="http://www.w3.org/1999/xhtml">
-                    <style>
-                    .menuBox{
-                        width:100%;
-                        display:flex;
-                        justify-content:center;
-                        gap:15px;
+        <foreignObject width="100%" height="360">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <style>
+                    .menuBox {
+                        width: 100%;
+                        display: flex;
+                        justify-content: center;
+                        gap: 15px;
                     }
                     button {
-                        padding:6px 12px;
-                        border-radius:15px;
-                        border:solid #ffff;
+                        padding: 6px 12px;
+                        border-radius: 15px;
+                        border: solid #ffff;
                     }
-                    </style>
-                </div>
+                </style>
+            </div>
         </foreignObject>
     </svg>
 </div>
