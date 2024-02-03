@@ -5,9 +5,12 @@
                 Hola Mundo
             </div>
        </foreignObject>
+</svg>
+
+<div>
             <style>
                 div{
                     color:red;
                 }
             </style>
-</svg>
+</div>
