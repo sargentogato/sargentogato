@@ -1,11 +1,15 @@
 <div class="menuBox">
-    <a href="https://www.linkedin.com/in/marlon-velasquez/">Linkedin</a>
-    <a href="mailto:marlonjvelasquez@gmail.com?subject=Hi my name is....&body=Thanks for contacting me.">Contact me</a>
+    <button>
+        <a href="https://www.linkedin.com/in/marlon-velasquez/">Linkedin</a>
+    </button>
+    <button>
+        <a href="mailto:marlonjvelasquez@gmail.com?subject=Hi my name is....&body=Thanks for contacting me.">Contact me</a>
+    </button>
 </div>
 
 <div style="width: 800px">
     <svg xmlns="http://www.w3.org/2000/svg" fill="none">
-            <foreignObjet width="100%" height="100%"> 
+            <foreignObjet xmlns="http://www.w3.org/2000/svg" fill="none" style="width: 100%;" height="360"> 
                 <div xmlns="http://www.w3.org/1999/xhtml">
                     <style>
                     .menuBox{
@@ -14,7 +18,7 @@
                         justify-content:center;
                         gap:15px;
                     }
-                    a {
+                    button {
                         padding:6px 12px;
                         border-radius:15px;
                         border:solid #ffff;
