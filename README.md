@@ -4,5 +4,10 @@
                 <!--we can include <style> elements, html elements etc. here now, with a few restrictions! Note it must be in xHTML style (so <img src="" /> not <img src="" > to be valid -->
                 Hola Mundo
             </div>
+            <style>
+                div{
+                    color:red;
+                }
+            </style>
        </foreignObject>
 </svg>
