@@ -10,8 +10,7 @@
 <div id="outer" style="width: 800px">
     <svg xmlns="http://www.w3.org/2000/svg" fill="none" style="width: 100%;" height="360">
         <foreignObject width="100%" height="100%">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <style>
+                     <style>
                     button{
                         padding:6px 12px;
                         border-radius:15px;
@@ -32,7 +31,6 @@
                         width: clamp(400px, 100%, 830px);
                     }
                 </style> 
-            </div>
         </foreignObject>
     </svg>
 </div>
