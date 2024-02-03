@@ -1,7 +1,7 @@
 <div>
-<a href="mailto:marlonjvelasquez@gmail.com?subject=Hi my name is....&body=Thanks for texting me"
+<a href="https://www.linkedin.com/in/marlon-velasquez/"
     ><img
-      src="./readme/contact_me.svg"
+      src="./readme/linkedin.svg"
       width="19.5%"
       height="120"
       alt="linkedIn Marlon Velásquez"
