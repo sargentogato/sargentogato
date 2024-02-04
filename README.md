@@ -10,5 +10,6 @@
       src="./readme/linkedin.svg"
       width="45%"
       alt="linkedIn Marlon Velásquez"
-  /></a>
+/></a>
+
 </div>
