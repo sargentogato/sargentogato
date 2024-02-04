@@ -18,13 +18,11 @@
             }
             
             .btnBox {
-              margin-left: 25%;
               border: none;
               padding: 4px;
               box-shadow: 0 0 2px;
               background: linear-gradient(-45deg, #e81cff 0%, #40c9ff 100%);
               animation: fadeIn 1.2s linear 1.3s forwards;
-              width: 100%;
             }
 
             [class^="btn"] {
