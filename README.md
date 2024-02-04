@@ -1,4 +1,4 @@
-<div>
+<div style="width:100%">
 <a href="https://www.linkedin.com/in/marlon-velasquez/"
     ><img
       src="./readme/linkedin.svg"
