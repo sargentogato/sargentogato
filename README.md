@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi! I'm Marlon Velásquez — a frontend developer with a curious mind, a passion and a love for building meaningful digital experiences. <br><br>🔭 I’m currently working on this project https://github.com/sargentogato/App-Food-Tracke<br><br>🌱 Currently expanding my knowledge in full stack development and exploring **accessibility** best practices. <br><br>🤝 I love collaborating in diverse teams, bringing not only technical skills but also empathy, adaptability, and positive energy. Open to remote opportunities and projects that challenge me to grow.
+Hi! I'm Marlon Velásquez — a frontend developer with a curious mind, a passion and a love for building meaningful digital experiences. <br><br>🔭 I’m currently working on this project [https://github.com/sargentogato/App-Food-Tracke](https://github.com/sargentogato/App-Food-Tracker)<br><br>🌱 Currently expanding my knowledge in full stack development and exploring **accessibility** best practices. <br><br>🤝 I love collaborating in diverse teams, bringing not only technical skills but also empathy, adaptability, and positive energy. Open to remote opportunities and projects that challenge me to grow.
 
 ## 🌐 Socials:
 
