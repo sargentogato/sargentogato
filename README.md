@@ -4,7 +4,12 @@
  <h1 align=center>Hi! I'm Marlon Velásquez — a Frontend Developer</h1>
 
 <p align=center>Curious mind 🔭, a passion and a love for building meaningful digital experiences.</p>
-I’m currently working on this project [https://github.com/sargentogato/App-Food-Tracke](https://github.com/sargentogato/App-Food-Tracker)<br><br>🌱 Currently expanding my knowledge in full stack development and exploring **accessibility** best practices. <br><br>🤝 I love collaborating in diverse teams, bringing not only technical skills but also empathy, adaptability, and positive energy. Open to remote opportunities and projects that challenge me to grow.
+
+I’m currently working on this projects<br>
+[App-Food-Tracker](https://github.com/sargentogato/App-Food-Tracker) / done with NestJS, MySQL, React and more<br>
+[DevFest Aranjuez](https://github.com/AdoptaUnJuniorPlatform/GDGAranjuez) / [Web](https://devfest2025.gdgaranjuez.com/) done with Astro
+
+<br>🌱 As well currently expanding my knowledge in full stack development and exploring **accessibility** best practices. <br><br>🤝 I love collaborating in diverse teams, bringing not only technical skills but also empathy, adaptability, and positive energy. Open to remote opportunities and projects that challenge me to grow.
 
 ## 🌐 Socials:
 
